@@ -103,7 +103,7 @@
                 </div>
                 <div class="column_form_after" id="validate">
                     <p><asp:TextBox CssClass="TextBox" ID="Address1" runat="server" required="" onchange="Addressvalidation()"></asp:TextBox></p>
-                    <p><asp:TextBox CssClass="TextBox" ID="Address2" runat="server" onchange="Addressvalidation()"></asp:TextBox></p>
+                    <p><asp:TextBox CssClass="TextBox" ID="Address" runat="server" onchange="Addressvalidation()"></asp:TextBox></p>
                      <p><asp:TextBox CssClass="TextBox" ID="Address3" runat="server" onchange="Addressvalidation()" ></asp:TextBox></p>
                      <p><asp:TextBox CssClass="TextBox" ID="City" runat="server" required=""  onchange="Townvalidation()"></asp:TextBox></p>
                      <p><asp:TextBox CssClass="TextBox" ID="Region" runat="server" onchange="RegionValidation()"></asp:TextBox></p>

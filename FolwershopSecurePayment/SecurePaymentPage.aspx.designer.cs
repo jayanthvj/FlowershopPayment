@@ -94,13 +94,13 @@ namespace FolwershopSecurePayment {
         protected global::System.Web.UI.WebControls.TextBox Address1;
         
         /// <summary>
-        /// Address2 control.
+        /// Address control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Address2;
+        protected global::System.Web.UI.WebControls.TextBox Address;
         
         /// <summary>
         /// Address3 control.
